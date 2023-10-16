@@ -1,5 +1,8 @@
 console.log("Hello Javascript")
 
+// DATA TYPES
+
+
 // Assignment 1.1
 
 let a =null;
