@@ -1,6 +1,6 @@
 console.log("Hello Javascript")
 
-// Local Storage
+// OOPS
 
 
 // Assignment 10.1
